@@ -1,5 +1,4 @@
-{
-    "recipe": [
+[
     {
     "name": "Moussaka",
     "id": "moussaka",
@@ -2200,4 +2199,4 @@
     "forked": "Elika's mom's recipe"
     }
     ]
-    }
+    
