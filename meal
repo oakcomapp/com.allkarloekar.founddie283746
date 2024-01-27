@@ -1,6 +1,206 @@
 [
     {
         "directions": [
+            "Melt butter in skillet. Add chicken and cook until browned, stirring often.",
+            "Add broccoli, soup and milk. Cover and simmer 5 min. or until done. Sprinkle with cheese."
+        ],
+        "ingredients": [
+            "1 tablespoon butter or margarine",
+            "1 pound skinless, boneless chicken breast, cut up",
+            "3 cups fresh or frozen broccoli flowerets",
+            "1 (10.75 ounce) can Campbell's\u00ae Condensed Cream of Chicken Soup (Regular or 98% Fat Free)",
+            "1/2 cup milk",
+            "1/2 cup shredded Cheddar cheese"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Skillet Chicken Broccoli Divan",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Chicken_And_Broccoli_%40_Bamboo_Asian_Cuisine.jpg/330px-Chicken_And_Broccoli_%40_Bamboo_Asian_Cuisine.jpg",
+        "url": "http://allrecipes.com/recipe/177809/2-step-skillet-chicken-broccoli-divan/"
+    },
+    {
+        "directions": [
+            "Cook chicken in nonstick skillet until browned, stirring often.",
+            "Add soup and vegetables. Cover and simmer until done. Serve on biscuits."
+        ],
+        "ingredients": [
+            "1 pound skinless, boneless chicken breast, cut-up",
+            "1 (10.75 ounce) can Campbell's\u00ae Condensed Cream of Chicken Soup (Regular or 98% Fat Free)",
+            "1 (16 ounce) package frozen vegetable combination (broccoli, cauliflower, carrots)",
+            "8 hot biscuits, split"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Inside-Out Chicken Pot Pie",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ChickenpotpieswholeFeb09.jpg/330px-ChickenpotpieswholeFeb09.jpg",
+        "url": "http://allrecipes.com/recipe/177695/2-step-inside-out-chicken-pot-pie/"
+    },
+    {
+        "directions": [
+            "Heat the oil in a 10-inch skillet over medium-high heat. Add the chops and garlic and cook for 10 minutes or until the chops are well browned on both sides. Remove the chops and set aside.",
+            "Stir the soup and milk into the skillet. Heat to a boil. Return the chops to the skillet and reduce the heat to low. Cover and cook for 5 minutes or until the chops are slightly pink in the center*.  Serve with couscous or rice."
+        ],
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "4 boneless pork chops, 3/4-inch thick",
+            "1 clove garlic, minced",
+            "1 (10.75 ounce) can Campbell's\u00ae Condensed Cream of Mushroom Soup (Regular, 98% Fat Free or 25% Less Sodium)",
+            "1/2 cup milk",
+            "4 cups hot cooked couscous or regular long-grain white rice"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Garlic Pork Chops",
+        "image":"https://images.unsplash.com/photo-1672711217712-1582ab75eff1?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url": "http://allrecipes.com/recipe/151687/2-step-garlic-pork-chops/"
+    },
+    {
+        "directions": [
+            "Heat oil in skillet. Add chicken and cook until browned, stirring often.",
+            "Add vegetable pasta blend, soup and water. Heat to a boil. Cover and cook over low heat 10 minutes or until done."
+        ],
+        "ingredients": [
+            "1 tablespoon vegetable oil",
+            "1 pound skinless, boneless chicken breast, cut up",
+            "1 (16 ounce) bag frozen pasta and vegetable blend",
+            "1 (10.75 ounce) can your favorite Campbell's\u00ae Cream Soup*",
+            "1/2 cup water"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Creamy Chicken and Pasta",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/The_Only_Original_Alfredo_Sauce_with_Butter_and_Parmesano-Reggiano_Cheese.png/330px-The_Only_Original_Alfredo_Sauce_with_Butter_and_Parmesano-Reggiano_Cheese.png",
+        "url": "http://allrecipes.com/recipe/177519/2-step-creamy-chicken-and-pasta/"
+    },
+    {
+        "directions": [
+            "Place 1 flour tortilla on a large microwave-safe plate; sprinkle with Cheddar cheese. Place the second flour tortilla atop the Cheddar layer.",
+            "Cook on high in the microwave until cheese is melted, about 1 minute."
+        ],
+        "ingredients": [
+            "2 (10 inch) flour tortillas",
+            "1 cup shredded Cheddar cheese"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Cheese Quesadillas",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Quesadilla_2.jpg/330px-Quesadilla_2.jpg",
+        "url": "http://allrecipes.com/recipe/228115/2-minute-cheese-quesadillas/"
+    },
+    {
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C).",
+            "Unroll 1 pie crust on a work surface; brush with water. Place second pie crust atop the first pie crust; press gently together. Place the double crust in a 9-inch pie pan.",
+            "Beat cream cheese, 1/2 cup sugar, 1 egg, vanilla, and salt together in a bowl until smooth and creamy. Pour into pie crust; sprinkle cheesecake filling with pecans.",
+            "Mix corn syrup, butter, 1/4 cup sugar, 3 eggs, and rum extract together in a bowl until smooth; pour over pecan layer.",
+            "Bake in the preheated oven until a knife inserted in the center of the pie comes out clean, 45 to 50 minutes."
+        ],
+        "ingredients": [
+            "1 recipe pastry for a 9-inch double crust pie",
+            "1 tablespoon water, or as needed",
+            "1 (8 ounce) package cream cheese",
+            "1/2 cup white sugar",
+            "1 egg",
+            "1 teaspoon vanilla extract",
+            "1/4 teaspoon salt",
+            "1 cup pecans",
+            "1 cup corn syrup",
+            "2 tablespoons butter, melted",
+            "1/4 cup white sugar",
+            "3 eggs",
+            "2 teaspoons rum extract"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Layer Rum Pecan Pie with Cheesecake",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pecan_pie%2C_November_2010.jpg/360px-Pecan_pie%2C_November_2010.jpg",
+        "url": "http://allrecipes.com/recipe/229742/2-layer-rum-pecan-pie-with-cheesecake/"
+    },
+    {
+        "directions": [
+            "Heat a large skillet over medium heat; add butter.",
+            "Mash banana chunks in a bowl using a fork until it becomes a wet consistency. Add egg and whisk mixture until batter is smooth.",
+            "Drop batter into the hot butter to make 2 pancakes. Cook until bubbles form and the edges are dry, about 3 minutes. Flip and cook until browned on the other side, about 2 minutes."
+        ],
+        "ingredients": [
+            "1 teaspoon butter",
+            "1 large banana, broken into chunks",
+            "1 large egg"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "Ingredient Wheat-Free Banana Pancakes (Paleo)",
+        "image":"https://images.unsplash.com/photo-1606149186228-4e5ac94a742e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url": "http://allrecipes.com/recipe/241231/2-ingredient-wheat-free-banana-pancak/"
+    },
+    {
+        "directions": [
+            "Line an 8x8-inch baking dish with plastic wrap long enough to overhang the dish by several inches on each side.",
+            "Place broken coating into a large glass microwave-safe bowl and melt on low power in microwave oven, about 5 minutes, stirring after every 30 seconds to 1 minute. When coating is smooth and creamy, stir peanut butter into coating until fudge is thoroughly combined. Spread fudge into the prepared baking dish.",
+            "Refrigerate fudge until set, 1 to 2 hours. Lift fudge out of the pan using the plastic wrap for handles and slice into squares with a pizza cutter."
+        ],
+        "ingredients": [
+            "1 pound white confectioners' coating (white almond bark), broken up",
+            "1 (18 ounce) jar peanut butter (such as Jif\u00ae)"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "2-Ingredient Peanut Butter Fudge",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Handmade_fruit_fudge_squares.jpg/450px-Handmade_fruit_fudge_squares.jpg",
+        "url": "http://allrecipes.com/recipe/228786/2-ingredient-peanut-butter-fudge/"
+    },
+    {
+        "directions": [
+            "Beat heavy cream in a bowl using an electric mixer until soft peaks form; add sweetened condensed milk and beat until thick and well combined.",
+            "Transfer mixture to a shallow container and cover with plastic wrap; freeze until solid, about 6 hours."
+        ],
+        "ingredients": [
+            "1 pint heavy whipping cream",
+            "1 (14 ounce) can sweetened condensed milk"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "2-Ingredient Ice Cream",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg/330px-Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg",
+        "url": "http://allrecipes.com/recipe/256234/2-ingredient-ice-cream/"
+    },
+    {
+        "directions": [
+            "Cook beef, green pepper, onion, chili powder and black pepper in skillet until browned. Pour off fat.",
+            "Add tomato juice and beans and heat through. Top with sour cream, green onions, cheese and tomato."
+        ],
+        "ingredients": [
+            "1 pound ground beef",
+            "1 large green pepper, chopped",
+            "1 large onion, chopped",
+            "2 tablespoons chili powder",
+            "1/4 teaspoon ground black pepper",
+            "3 cups Campbell's\u00ae Tomato Juice Tomato Juice",
+            "1 (15 ounce) can kidney beans, rinsed and drained",
+            "1 (15 ounce) can great Northern beans, rinsed and drained",
+            "sour cream",
+            "sliced green onion",
+            "shredded Cheddar cheese",
+            "chopped tomato"
+        ],
+        "language": "en-US",
+        "source": "allrecipes.com",
+        "tags": [],
+        "title": "2-Bean Chili",
+        "image":"https://images.unsplash.com/photo-1591266798549-32fa7cd32f45?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "url": "http://allrecipes.com/recipe/151628/2-bean-chili/"
+    },
+    {
+        "directions": [
             "Remove foil lid from cake package. (Do not remove cake from pan.) Pierce cake with skewer at 1/2-inch intervals, poking skewer through cake to bottom of pan.",
             "Add boiling water to gelatin mix in small bowl; stir 2 min. until completely dissolved. Stir in cold water; pour over cake. Refrigerate 1 hour. Meanwhile, make curls from semi-sweet chocolate.",
             "Invert cake onto platter. Cut cake horizontally in half. Spread bottom half of cake with 1/3 cup COOL WHIP; cover with 1 cup pie filling and top cake layer. Frost top and sides of cake with remaining COOL WHIP. Garnish with remaining pie filling and chocolate curls."
