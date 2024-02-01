@@ -81,7 +81,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "chinese"
     },
     {
@@ -94,7 +94,7 @@
       "green_level": "none",
       "contain_nut": "possible",
       "contain_milk": "possible",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -107,7 +107,7 @@
       "green_level": "none",
       "contain_nut": "possible",
       "contain_milk": "possible",
-      "avg_calories": null,
+      
       "cuisine": "chinese"
     },
     {
@@ -120,7 +120,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -133,7 +133,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "chinese"
     },
     {
@@ -146,7 +146,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -159,7 +159,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -172,7 +172,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -185,7 +185,7 @@
       "green_level": "none",
       "contain_nut": "contain",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -198,7 +198,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "possible",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -211,7 +211,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "possible",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -224,7 +224,7 @@
       "green_level": "none",
       "contain_nut": "possible",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -237,7 +237,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "chinese"
     },
     {
@@ -250,7 +250,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "contain",
-      "avg_calories": null,
+      
       "cuisine": "chinese"
     },
     {
@@ -263,7 +263,7 @@
       "green_level": "none",
       "contain_nut": "not-contain",
       "contain_milk": "contain",
-      "avg_calories": null,
+      
       "cuisine": "chiness"
     },
     {
@@ -288,7 +288,7 @@
       "green_level": "none",
       "contain-nut": "not-contain",
       "contain-milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -311,7 +311,7 @@
       "green_level": "none",
       "contain-nut": "not-contain",
       "contain-milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -325,7 +325,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -338,7 +338,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -351,7 +351,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     },
     {
@@ -364,7 +364,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "chiness"
     },{
       "name":  "ข้าวผัดหมู",
@@ -376,7 +376,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "chiness"
     },{
       "name":  "ข้าวผัดไก่",
@@ -388,7 +388,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "chiness"
     },{
       "name":  "ข้าวผัดหมึก",
@@ -400,7 +400,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "chiness"
     },{
       "name":  "ข้าวผัดทะเล",
@@ -412,7 +412,7 @@
       "green_level": "none",
       "contain-nut": "none",
       "contain-milk": "none",
-      "avg_calories": null,
+      
       "cuisine": "chiness"
     },{
       "name":  "ยำปลากระป๋อง",
@@ -424,7 +424,7 @@
       "green_level": "none",
       "contain-nut": "not-contain",
       "contain-milk": "not-contain",
-      "avg_calories": null,
+      
       "cuisine": "thai"
     }
   ]
